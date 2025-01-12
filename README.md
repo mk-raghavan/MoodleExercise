@@ -37,7 +37,7 @@ Section 2: Week-04-02-Practice Session-Coding
 Section 1: Week-05-01-Practice Session-CodingQuiz
 Section 2: Week-05-02-Practice Session-Coding
 
-**Week6 : **
+**Week6 :**
 Section 1: - Decision Making and Looping - for
 Section 2: One-Dimensional Arrays
 Section 3: One-Dimensional Arrays
@@ -46,16 +46,16 @@ Section 3: One-Dimensional Arrays
 
 **Week 8: Week-08-Sorting Algorithms-Bubble and Selection**
 
-**Week 9: Week-09-Two-Dimensional and Multi-dimensional Arrays
+**Week 9: Week-09-Two-Dimensional and Multi-dimensional Arrays**
 
-Week 10: Week-10-Character Arrays and Strings
+**Week 10: Week-10-Character Arrays and Strings**
 
-Week 11: Week-11-String Handling Functions
+**Week 11: Week-11-String Handling Functions**
 
-Week 12: Week-12-User-Defined Functions
+**Week 12: Week-12-User-Defined Functions**
 
-Week 13: Week-13-Passing Arrays and Strings to Functions
+**Week 13: Week-13-Passing Arrays and Strings to Functions**
 
-Week 14: Week-14-Structures and Unions
+**Week 14: Week-14-Structures and Unions**
 
-Week 15: Week-15-Pointers**
+**Week 15: Week-15-Pointers**
