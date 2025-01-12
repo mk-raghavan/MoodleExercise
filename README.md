@@ -1,8 +1,8 @@
 # MoodleExercise
 C Moodle Exercise 
 **Week 1: Week-01-Overview of C, Constants, Variables and Data Types**
-Section 1: Coding-C-Language Features-OptionalQuiz
-Section 2: Week-01-01-Practice Session-Coding
+**Section 1:** Coding-C-Language Features-OptionalQuiz
+**Section 2:** Week-01-01-Practice Session-Coding
 
 **Week 2: Week-02-Operators and Expressions, Managing Input and Output Operations**
 Section 1: Week-02-01-Practice Session-CodingQuiz
@@ -30,8 +30,9 @@ Section 5: Problem solving with StringsQuiz
 Section 6: String manipulation functions
 
 **Week 4: ◄Lab-04-Decision Making and Branching - if...else if and switch…case**
-Section 1: Week-04-01-Practice Session-CodingQuiz
-Section 2: Week-04-02-Practice Session-Coding
+Section 1: Initialization of structures, Accessing structures
+Section 2: Week-04-01-Practice Session-CodingQuiz - Decision Making and Branching - if...else if and switch…case
+Section 3: Week-04-02-Practice Session-Coding - Decision Making and Branching - if...else if and switch…case
 
 **Week 5:►Assessment-05-Decision Making and Looping - while and do…while**
 Section 1: Week-05-01-Practice Session-CodingQuiz
